@@ -8,4 +8,4 @@ X-ray Scattering of a Cylinder Simulation
 5. Press Run
 
 Note: Progress is shown in the Command Window.
-To stop the simulation, ensure the Command Window is select and press ctrl+c on the keyboard.
+To stop the simulation, ensure the Command Window is selected and press ctrl+c on the keyboard.

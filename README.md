@@ -1,4 +1,4 @@
-# thesis
+# Thesis
 X-ray Scattering of a Cylinder Simulation
 
 1. Open up "simulation.m".

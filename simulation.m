@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  Input Variables  %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%
-Res = 10;         %Resolution of model
+Res = 50;         %Resolution of model
 r = 0.005;        %Radius of sphere
 E1 = 225E3;       %Emitter energy [eV]
 D_L = 0.04;       %Length of detector [m]
